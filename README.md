@@ -6,4 +6,5 @@ Answers of LeetCode
 ### Some of the problems are listed below:
 |                 Sequence                 |                 Problem                  | Level |  Language  | Notes |  Build  |
 | :--------------------------------------: | :--------------------------------------: | :---- | :--------: | :---: | :-----: |
+| [004](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |       Median of Two Sorted Arrays        | Hard  |    C++     |       | Passing |
 | [030](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | Substring with Concatenation of All Words | Hard  | C++/Python | hash  | Passing |
